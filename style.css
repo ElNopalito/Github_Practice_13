@@ -1,0 +1,21 @@
+h1{
+    color:red;
+    text-align: center;
+    text-decoration: underline;
+}
+h2{color:red}
+p{
+    font-size: 1em;
+}
+li{
+    font-style: italic;
+}
+body{
+    background-color: rgb(151, 151, 77);
+}
+a{
+    color:purple
+}
+#div1{color:rgb(255, 0, 140)}
+#div2{color:rgb(24, 20, 18)}
+#div3{color:rgb(84, 84, 99)}
